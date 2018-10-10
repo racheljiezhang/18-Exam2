@@ -51,7 +51,7 @@ def main():
     # run_test_problem1a()
     # run_test_problem1b()
     # run_test_problem1c()
-    run_test_problem1d()
+    # run_test_problem1d()
 
 
 def run_test_problem1a():
