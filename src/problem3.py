@@ -25,9 +25,9 @@ def main():
     print('Un-comment the calls in MAIN one by one')
     print(' to run the testing code as you complete the TODOs.')
 
-    # run_test_init()
-    # run_test_rain()
-    # run_test_get_total_rain_amount()
+    run_test_init()
+    run_test_rain()
+    run_test_get_total_rain_amount()
     run_test_merge_cloud()
 
 

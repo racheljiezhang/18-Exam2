@@ -48,10 +48,10 @@ def main():
     print('Un-comment the calls in MAIN one by one')
     print(' to run the testing code as you complete the TODOs.')
 
-    # run_test_problem1a()
-    # run_test_problem1b()
-    # run_test_problem1c()
-    # run_test_problem1d()
+    run_test_problem1a()
+    run_test_problem1b()
+    run_test_problem1c()
+    run_test_problem1d()
 
 
 def run_test_problem1a():
